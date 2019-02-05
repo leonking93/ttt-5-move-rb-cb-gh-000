@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(user_input)
+def input_to_index(number)
   puts "Select a number between 1-9."
   user_input = gets.to_i
 end
