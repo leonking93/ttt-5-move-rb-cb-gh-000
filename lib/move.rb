@@ -10,5 +10,5 @@ end
 
 def input_to_index("move")
   puts "Select a number between 1-9."
-  user_input = gets.to_i
+  move = gets.to_i
 end
