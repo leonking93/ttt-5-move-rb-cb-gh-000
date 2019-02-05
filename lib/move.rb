@@ -18,3 +18,5 @@ def move(board, index, character = "X")
     array[index] = value
   end
 end
+
+move(board, 3)
