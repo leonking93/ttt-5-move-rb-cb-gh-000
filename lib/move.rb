@@ -19,5 +19,3 @@ def move(board, index, character = "X")
   end
   update_array_at_with(board, 0, "X")
 end
-
-move(board, 3)
