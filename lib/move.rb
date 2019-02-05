@@ -14,5 +14,5 @@ def input_to_index(number)
 end
 
 def move(board, index, character = "X")
-  board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
+  board[0] = "X"
 end
