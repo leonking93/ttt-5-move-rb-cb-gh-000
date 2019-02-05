@@ -19,4 +19,4 @@ def move(board, index, character = "X")
   end
 end
 
-move(board, 3)
+move(board, 3, "X")
